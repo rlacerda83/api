@@ -14,7 +14,7 @@
     }],
     "require": {
         "php": "^7.3|^8.0",
-        "dingo/blueprint": "^0.4",
+        "dingo/blueprint": "dev-feature/php8",
         "illuminate/routing": "^7.0|^8.0",
         "illuminate/support": "^7.0|^8.0",
         "league/fractal": "^0.19"
